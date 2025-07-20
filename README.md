@@ -59,7 +59,7 @@ A comprehensive system optimization utility for Windows with privacy controls an
 
 ## 📬 Contact  
 **Project Maintainer**:  
-GitHub: [@YourUsername](https://github.com/STYEBO)  
+GitHub: [@STYEBO](https://github.com/STYEBO)  
 
 ---
 
