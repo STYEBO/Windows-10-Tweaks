@@ -1,56 +1,75 @@
-Windows Optimization Toolkit
-A powerful system optimization utility with privacy controls, performance tweaks, and customization features for Windows.
+# 🛠️ System Optimization Tool (Windows)
 
+![Windows Version](https://img.shields.io/badge/Windows-10/11+-blue)
+![License](https://img.shields.io/badge/License-MIT-orange)
 
-🌟 Key Features
-📁 System Maintenance
--🛡️ Create Restore Point
--🗑️ Delete Temporary Files
+A comprehensive system optimization utility for Windows with privacy controls and performance tweaks.
 
-🔒 Privacy & Telemetry
--🚫 Toggle Consumer Features
--📊 Toggle Telemetry
--⏳ Toggle Activity History
--📍 Toggle Location Tracking
--📶 Toggle WiFi-Sense
--💻 Toggle PowerShell 7 Telemetry
+## 🌟 Key Features
 
-⚙️ System Features
--📂 Toggle Explorer Folder Discovery
--🎮 Toggle GameDVR
--💤 Toggle Hibernation
--🔋 Set Hibernation as Default
--🏠 Toggle HomeGroup
--🌐 Toggle Teredo
+### 📁 System Maintenance
+- 🛡️ Create Restore Point  
+- 🗑️ Delete Temporary Files  
 
-⚡ Performance Tweaks
--🖥️ Toggle Full Screen Optimization
--🎚️ Toggle Display for Performance
--🔐 Toggle Windows Platform Binary Table
+### 🔒 Privacy & Telemetry
+- 🚫 Toggle Consumer Features  
+- 📊 Toggle Telemetry  
+- ⏳ Toggle Activity History  
+- 📍 Toggle Location Tracking  
+- 📶 Toggle WiFi-Sense  
+- 💻 Toggle PowerShell 7 Telemetry  
 
-📦 Application Control
--🚮 Toggle Edge Debloat
--🤖 Toggle Microsoft Copilot
--🗑️ Remove Windows Store Apps
+### ⚙️ System Features
+- 📂 Toggle Explorer Folder Discovery  
+- 🎮 Toggle GameDVR  
+- 💤 Toggle Hibernation  
+- 🔋 Set Hibernation as Default  
+- 🏠 Toggle HomeGroup  
+- 🌐 Toggle Teredo  
 
-🔧 Services & Processes
--📱 Toggle Background Apps
--⚙️ Toggle Intel (vPro LMS)
--🔄 Toggle Services
+### ⚡ Performance Tweaks
+- 🖥️ Toggle Full Screen Optimization  
+- 🎚️ Toggle Display for Performance  
+- 🔐 Toggle Windows Platform Binary Table  
 
-🖥️ UI Customization
--📅 Toggle Notification Tray/Calendar
--🎨 UI/UX Tweaks Submenu
+### 📦 Application Control
+- 🚮 Toggle Edge Debloat  
+- 🤖 Toggle Microsoft Copilot  
+- 🗑️ Remove Windows Store Apps  
 
-🧰 Utilities
--🔄 Toggle Recall
--🧹 Run Disk Cleanup
+### 🔧 Services & Processes
+- 📱 Toggle Background Apps  
+- ⚙️ Toggle Intel (vPro LMS)  
+- 🔄 Toggle Services  
 
+### 🖥️ UI Customization
+- 📅 Toggle Notification Tray/Calendar  
+- � UI/UX Tweaks Submenu  
 
+### 🧰 Utilities
+- 🔄 Toggle Recall  
+- � Run Disk Cleanup  
 
-📥 Installation Prerequisites
-Windows 10/11 (Pro/Enterprise recommended)
-Administrator privileges
+---
 
-📬 Contact Project Maintainer
-GitHub: @YourUsername
+## 📥 Installation  
+**Prerequisites**:  
+- Windows 10/11 (Pro/Enterprise recommended)  
+- Administrator privileges  
+
+## 📬 Contact  
+**Project Maintainer**:  
+GitHub: [@YourUsername](https://github.com/YourUsername)  
+
+---
+
+## 🛠️ Technical Overview  
+
+```mermaid
+graph TD
+    A[Main Interface] --> B[Privacy Module]
+    A --> C[Performance Module]
+    A --> D[Maintenance Module]
+    B --> E[System Registry]
+    C --> E
+    D --> E
