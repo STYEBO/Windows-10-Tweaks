@@ -4,54 +4,53 @@ A powerful system optimization utility with privacy controls, performance tweaks
 🌟 Key Features
 
 📁 System Maintenance
-  🛡️ Create Restore Point – Safeguard system state
-  🗑️ Delete Temporary Files – Clear cache and junk files
+  🛡️ Create Restore Point  
+  🗑️ Delete Temporary Files  
 
 🔒 Privacy & Telemetry
-  🚫 Toggle Consumer Features – (1=Disable/2=Enable) Marketing & tracking
-  📊 Toggle Telemetry – Control Windows diagnostic data
-  ⏳ Toggle Activity History – Disable Timeline tracking
-  📍 Toggle Location Tracking – Manage GPS services
-  📶 Toggle WiFi-Sense – Disable credential sharing
-  💻 Toggle PowerShell 7 Telemetry – Control script logging
+  🚫 Toggle Consumer Features 
+  📊 Toggle Telemetry
+  ⏳ Toggle Activity History 
+  📍 Toggle Location Tracking 
+  📶 Toggle WiFi-Sense
+  💻 Toggle PowerShell 7 Telemetry 
 
 ⚙️ System Features
-  📂 Toggle Explorer Folder Discovery – Smart suggestions
-  🎮 Toggle GameDVR – Xbox recording features
-  💤 Toggle Hibernation – Enable/Disable sleep mode
-  🔋 Set Hibernation as Default – Optimize power settings
-  🏠 Toggle HomeGroup – Legacy network sharing
-  🌐 Toggle Teredo – IPv6 transition technology
+  📂 Toggle Explorer Folder Discovery 
+  🎮 Toggle GameDVR 
+  💤 Toggle Hibernation
+  🔋 Set Hibernation as Default 
+  🏠 Toggle HomeGroup
+  🌐 Toggle Teredo 
 
 ⚡ Performance Tweaks
-  🖥️ Toggle Full Screen Optimization – Game/application behavior
-  🎚️ Toggle Display for Performance – Speed vs. visuals
-  🔐 Toggle Windows Platform Binary Table – Firmware security
+  🖥️ Toggle Full Screen Optimization
+  🎚️ Toggle Display for Performance 
+  🔐 Toggle Windows Platform Binary Table
 
 
 📦 Application Control
-  🚮 Toggle Edge Debloat – Remove promotional content
-  🤖 Toggle Microsoft Copilot – AI assistant settings
-  🗑️ Remove Windows Store Apps – Bulk uninstall (keeps essentials)
+  🚮 Toggle Edge Debloat 
+  🤖 Toggle Microsoft Copilot 
+  🗑️ Remove Windows Store Apps 
 
 🔧 Services & Processes
-  📱 Toggle Background Apps – Control background activity
-  ⚙️ Toggle Intel (vPro LMS) – Management service
-  🔄 Toggle Services – (1=Manual/2=Auto) Startup behavior
+  📱 Toggle Background Apps 
+  ⚙️ Toggle Intel (vPro LMS) 
+  🔄 Toggle Services 
 
 🖥️ UI Customization
-  📅 Toggle Notification Tray/Calendar – Taskbar widgets
-  🎨 UI/UX Tweaks Submenu – Advanced theming options
+  📅 Toggle Notification Tray/Calendar 
+  🎨 UI/UX Tweaks Submenu
 
 🧰 Utilities
-  🔄 Toggle Recall – Windows activity history
-  🧹 Run Disk Cleanup – Built-in storage cleaner
+  🔄 Toggle Recall 
+  🧹 Run Disk Cleanup 
 
 📥 Installation Prerequisites
 Windows 10/11 (Pro/Enterprise recommended)
 
-
 Administrator privileges
 
 📬 Contact Project Maintainer
-GitHub: @STYEBO
+GitHub: @YourUsername
