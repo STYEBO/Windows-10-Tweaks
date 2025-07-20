@@ -4,10 +4,12 @@ A powerful system optimization utility with privacy controls, performance tweaks
 🌟 Key Features
 
 📁 System Maintenance
+
   🛡️ Create Restore Point  
   🗑️ Delete Temporary Files  
 
 🔒 Privacy & Telemetry
+
   🚫 Toggle Consumer Features 
   📊 Toggle Telemetry
   ⏳ Toggle Activity History 
@@ -16,6 +18,7 @@ A powerful system optimization utility with privacy controls, performance tweaks
   💻 Toggle PowerShell 7 Telemetry 
 
 ⚙️ System Features
+
   📂 Toggle Explorer Folder Discovery 
   🎮 Toggle GameDVR 
   💤 Toggle Hibernation
@@ -24,26 +27,31 @@ A powerful system optimization utility with privacy controls, performance tweaks
   🌐 Toggle Teredo 
 
 ⚡ Performance Tweaks
+
   🖥️ Toggle Full Screen Optimization
   🎚️ Toggle Display for Performance 
   🔐 Toggle Windows Platform Binary Table
 
 
 📦 Application Control
+  
   🚮 Toggle Edge Debloat 
   🤖 Toggle Microsoft Copilot 
   🗑️ Remove Windows Store Apps 
 
 🔧 Services & Processes
+
   📱 Toggle Background Apps 
   ⚙️ Toggle Intel (vPro LMS) 
   🔄 Toggle Services 
 
 🖥️ UI Customization
+ 
   📅 Toggle Notification Tray/Calendar 
   🎨 UI/UX Tweaks Submenu
 
 🧰 Utilities
+
   🔄 Toggle Recall 
   🧹 Run Disk Cleanup 
 
