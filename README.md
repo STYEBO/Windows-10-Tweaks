@@ -5,7 +5,7 @@ A powerful system optimization utility with privacy controls, performance tweaks
 
 📁 System Maintenance
   🛡️ Create Restore Point – Safeguard system state
- 🗑️ Delete Temporary Files – Clear cache and junk files
+  🗑️ Delete Temporary Files – Clear cache and junk files
 
 🔒 Privacy & Telemetry
   🚫 Toggle Consumer Features – (1=Disable/2=Enable) Marketing & tracking
